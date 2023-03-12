@@ -1,0 +1,112 @@
+/* Set background color and font */
+body {
+    background-color: #f2f2f2;
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  /* Main container */
+  #main {
+    margin: 50px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  /* Page title */
+  h2 {
+    margin: 0 0 10px;
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+  }
+  
+  /* Subtitle */
+  h3 {
+    margin: 0 0 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #666;
+    text-align: center;
+  }
+  
+  /* SVG container */
+  svg {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* Line plot */
+  .line-plot {
+    fill: none;
+    stroke-width: 2px;
+    stroke: #ff6f69; /* Red */
+  }
+  
+  /* City labels */
+  .city-label {
+    text-anchor: middle;
+    font-size: 18px;
+    font-weight: bold;
+    opacity: 0.8;
+    fill: #333;
+  }
+  
+  /* Axis labels */
+  .axis-label {
+    text-anchor: middle;
+    font-size: 14px;
+    font-weight: bold;
+    fill: #333;
+  }
+  
+  /* Grid lines */
+  .grid path,
+  .grid line {
+    stroke: #ddd;
+  }
+  
+  /* Background of grid */
+  .background {
+    fill: #fff;
+  }
+  
+  /* Footer */
+  footer {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 12px;
+    color: #999;
+  }
+  
+  /* Links */
+  a {
+    color: #007bff; /* Blue */
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+
+  /* Add a background color to the canvas */
+svg {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+
+  /* Add a shadow to the axis labels */
+.axis-label {
+    text-anchor: middle;
+    font-size: 12px;
+    font-weight: semibold;
+    filter: drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.3));
+  }
+
+  /* Make the line plot more colorful */
+.line-plot {
+    fill: none;
+    stroke-width: 2px;
+    stroke: #ff6384;
+  }
