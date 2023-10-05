@@ -37,17 +37,3 @@ To get started with the Precipitation Data Visualization project, follow these s
 4. **Run the Visualization:** Execute the application to start visualizing and analyzing precipitation data.
 
 5. **Explore and Analyze:** Use the interactive features to compare cities, identify monthly extremes, and analyze precipitation trends.
-
-## Contributing
-
-We welcome contributions from the community to make this project even more powerful and user-friendly. If you'd like to contribute, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## Feedback and Support
-
-If you encounter any issues, have suggestions, or need assistance, please reach out to us through the [issue tracker](https://github.com/your/repository/issues). We value your feedback and are here to help.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md). Feel free to use and modify it for your needs, and don't forget to credit the original authors.
-
-Thank you for choosing the Precipitation Data Visualization project. We hope it proves to be a valuable tool in your work and research!
